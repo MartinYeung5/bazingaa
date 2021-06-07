@@ -49,7 +49,7 @@ public class findClosestClinic {
     public static void main(String[] args) {
          
         FileInputStream input = null;       
-        String fileName = "C:/Users/yeung/chas-clinics-geojsonEXCEL.xlsx"; //dataset from SG gov
+        String fileName = "chas-clinics-geojsonEXCEL.xlsx"; //dataset from SG gov, already change the format from .kml to .xlsx
         double[] userLocation = {32339.5,39107.77178}; //capture user location from their device
         final int X = 0;
 		final int Y = 1;
