@@ -22,3 +22,6 @@ it will generate the closest Clinic Location
 
 format 2: javaAPI/{latitude}/{longitude}/clinic
 it will generate the closest Clinic Name
+
+Remark:
+The API is developed with Springboot
