@@ -5,6 +5,9 @@ Java
 
 input data: 
 1. User location (latitude and longitude) - Format: double, Length: 10 digits only
+2. Dataset from Singapore Government Data
+https://data.gov.sg/dataset/chas-clinics?resource_id=21dace06-c4d1-4128-9424-aba7668050dc
+The dataset is .kml format, and transformed the format to .xlsx for the further manipulation.
 
 Output data:
 1. Clinic Location (latitude and longitude) - Format: double, Length: 10 digits only, will only display the closest place
