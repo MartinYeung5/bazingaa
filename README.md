@@ -7,8 +7,8 @@ input data:
 1. User location (latitude and longitude) - Format: double, Length: 10 digits only
 
 Output data:
-1. Clinic Location (latitude and longitude), will only display the closest place
-2. Clinic Name
+1. Clinic Location (latitude and longitude) - Format: double, Length: 10 digits only, will only display the closest place
+2. Clinic Name - Format: String
 
 Main Point:
 1. The user can know the clinic name
