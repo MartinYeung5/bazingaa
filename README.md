@@ -27,7 +27,7 @@ format 2: javaAPI/{latitude}/{longitude}/clinic
 it will generate the closest Clinic Name
 
 SOS function:
-The user can click the SOS button to submit their location and receive extra help + know which clinic is available and closest for them at that moment
+1. The user can click the SOS button to submit their location and receive extra help + know which clinic is available and closest for them at that moment
 
 Remark:
 The API is developed with Springboot
