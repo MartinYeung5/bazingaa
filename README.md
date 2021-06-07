@@ -16,3 +16,9 @@ Main Point:
 
 API:
 1. The API can receive the user location and generate the closest Clinic Location or Clinic Name
+
+format 1: javaAPI/{latitude}/{longitude}
+it will generate the closest Clinic Location
+
+format 2: javaAPI/{latitude}/{longitude}/clinic
+it will generate the closest Clinic Name
