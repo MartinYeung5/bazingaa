@@ -14,7 +14,7 @@ Folder structure in GitHub:
 1. /src - All source codes (eg: .java, .py)
 2. /data - All data (eg: .csv, .xlsx)
 3. /docs - All demo and documentations (.pdf, .docs, .jpg)
-
+4. /models - All models (eg: .pkl, .joblib)
 
 Details on available source codes:
 
