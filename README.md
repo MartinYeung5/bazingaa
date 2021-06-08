@@ -11,9 +11,9 @@ is detected from their wearables, with the option to send "SOS" to have medical 
 Please find the microservice architecture documentations under /docs folder. 
 
 Folder structure in GitHub:
-1. /src - All source codes (eg: .java, .py)
+1. /src - All source codes (eg: .java, .py, .ipynb)
 2. /data - All data (eg: .csv, .xlsx)
-3. /docs - All demo and documentations (.pdf, .docs, .jpg)
+3. /docs - All demo and documentations (.pdf, .docs, .jpg, .pbix)
 4. /models - All models (eg: .pkl, .joblib)
 
 Details on available source codes:
