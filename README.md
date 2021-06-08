@@ -1,5 +1,24 @@
 # Team Bazingaa Project
 
+About this project:
+A Work-In-Progress integrated and automated solution that complements the idea of Smart Administration.
+With this automated system, 
+1. Singapore authorities/government will benefit from having an overview of its citizens
+health conditions clustered by location to allow for proactive measures as and when necessary.
+2. Citizens enjoy automated alerts on where closest available clinics/medical center whenever an abnormal health behavior
+is detected from their wearables, with the option to send "SOS" to have medical assistance sent to their current location.
+
+Please find the microservice architecture documentations under /docs folder. 
+
+Folder structure in GitHub:
+1. /src - All source codes (eg: .java, .py)
+2. /data - All data (eg: .csv, .xlsx)
+3. /docs - All demo and documentations (.pdf, .docs, .jpg)
+
+
+Details on available source codes:
+
+A. Finding Closest Clinic
 Program Language: 
 Java
 
@@ -31,3 +50,7 @@ SOS function:
 
 Remark:
 The API is developed with Springboot
+
+B. Generating Random Singapore locations
+
+Function returns a set of coordinates with addresses of found in Singapore public housing data set through API.
