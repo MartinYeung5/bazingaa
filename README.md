@@ -1,6 +1,6 @@
 # Team Bazingaa Project
 
-About this project:
+## About this project:
 A Work-In-Progress integrated and automated solution that complements the idea of Smart Administration.
 With this automated system, 
 1. Singapore authorities/government will benefit from having an overview of its citizens
@@ -18,7 +18,7 @@ Folder structure in GitHub:
 
 Details on available source codes:
 
-A. Finding Closest Clinic
+## A. Finding Closest Clinic
 Program Language: 
 Java
 
@@ -51,6 +51,9 @@ SOS function:
 Remark:
 The API is developed with Springboot
 
-B. Generating Random Singapore locations
+## B. Generating Random Singapore locations
 
 Function returns a set of coordinates with addresses of found in Singapore public housing data set through API.
+
+## C. Test Case
+1. latitude =  32039 and longitude = 12339
